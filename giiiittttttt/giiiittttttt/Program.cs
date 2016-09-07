@@ -12,6 +12,7 @@ namespace giiiittttttt
         {
             Console.WriteLine("");
             Console.Write("Fantastisk kod, 10/10");
+            Console.Write("hej hej")
         }
     }
 }
