@@ -11,6 +11,7 @@ namespace giiiittttttt
         static void Main(string[] args)
         {
             Console.WriteLine("");
+            Console.Write("Fantastisk kod, 10/10");
         }
     }
 }
